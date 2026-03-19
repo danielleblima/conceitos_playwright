@@ -2,6 +2,6 @@
 CodeceptJS + JS
 ## Contato:
 - Danielle B. de Lima
-- [Linnkedin](https://www.linkedin.com/in/danielle-b-lima/)
+- LinkedIn: (https://www.linkedin.com/in/danielle-b-lima/)
 - 
 
